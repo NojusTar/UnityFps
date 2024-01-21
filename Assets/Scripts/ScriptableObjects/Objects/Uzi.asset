@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6082ff3adb6fcd648b7e046e01af2296, type: 3}
+  m_Name: Uzi
+  m_EditorClassIdentifier: 
+  id: 2
+  gunName: Uzi
+  gunPrefab: {fileID: 2569545812113760964, guid: fbc077ea7ae8aad479dd04d304c11505,
+    type: 3}
+  damage: 20
+  fireRate: 0.1
+  automatic: 1
+  bulletAmount: 0
+  bulletSpread: 0
+  returnSpeed: 2
+  kickX: 0
+  kickY: -0.05
+  kickZ: -0.05
+  snapiness: 10
+  recoilX: -5
+  recoilY: 0
+  recoilZ: 0
